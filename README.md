@@ -1,4 +1,12 @@
-chef-chromedriver
-=================
+Description
+===========
 
-Chef cookbook for installing chromedriver
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
